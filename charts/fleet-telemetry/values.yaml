@@ -4,7 +4,7 @@ tlsSecret:
   tlsCrt: ""
   tlsKey: ""
 image:
-  repository: tesla/fleet-telemetry
+  repository: bpsesandbox.azurecr.cn/tesla/fleet-telemetry
   tag: latest
 resources: {}
 nodeSelector: {}
